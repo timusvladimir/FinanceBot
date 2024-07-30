@@ -4,6 +4,7 @@ from telegram.ext import CommandHandler, Updater, CallbackContext
 
 # Замените на свои данные
 TELEGRAM_TOKEN = 'ваш_токен_телеграм_бота'
+
 MOEX_API_TOKEN = 'ваш_токен_московской_биржи'
 MOEX_API_URL = 'https://iss.moex.com/iss/engines/stock/markets/shares/boards/tqbr/securities'
 
